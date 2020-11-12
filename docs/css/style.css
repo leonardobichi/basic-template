@@ -1,0 +1,61 @@
+.fondo{
+    background: #dfcdc3;
+}
+.centro{
+    text-align: center ;
+}
+.fondo1{
+    background-image: url("img/masaje2.jpg");
+}
+.fondo2{
+    width: 1349px; height: 400px;
+    background: black;
+    color: white;
+}
+.fondo3{
+    background: #f8f8f8;
+}
+.fondo4{
+    background: #2c7873;
+}
+.fondo5{
+    background: #edf7fa;
+    color: black;
+}
+
+.der{
+    text-align: right;
+}
+.img{
+    width: 100px; height: 200px;
+}
+.letra{
+    font-family: 'Cinzel Decorative', cursive;
+}
+.letra1{
+    font-family: 'Fredericka the Great', cursive;
+}
+.letra2{
+    font-family: 'Oregano', cursive;
+}
+.letra3{
+    font-family: 'Baloo Bhai', cursive;
+}
+.letra4{
+    font-family: 'Marcellus SC', serif;
+}
+.letra5{
+    font-family: 'Girassol', cursive;
+}
+.nosotros{
+    width: 1000px; height: 500px;
+}
+.nosotros1{
+    width: 1348px; height: 400px;
+}
+.redes{
+    width: 230px; height: 230px;
+}
+.fin{
+    width: 1220px; height: 250px;
+}
